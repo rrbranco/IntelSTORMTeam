@@ -1,5 +1,5 @@
 # IntelSTORMTeam
-Moving all old Intel STORM Team Materials to one repo
+Moving all old Intel STORM Team Materials to one repo (I've kept the cloned repo's too just in case folks linked to it).
 
 Each directory here was a repo under https://github.com/IntelSTORMTeam/
 
